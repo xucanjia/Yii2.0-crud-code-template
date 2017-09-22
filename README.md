@@ -4,6 +4,12 @@
 2. 本文结合 `kartik-v/yii2-grid` 插件 和 H+后台 需要自行安装
 ```
 
-具体参考:
+使用参考:
 
-<www.xucanjia.com>
+<http://xucanjia.com/2017/09/21/yii2.0-template.html>
+
+
+不定时更新`~
+
+
+`如果喜欢给个 star 谢谢了~~`
